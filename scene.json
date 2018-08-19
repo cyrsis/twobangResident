@@ -1,0 +1,30 @@
+{
+  "display": {
+    "title": "hopeful_thompson"
+  },
+  "owner": "",
+  "contact": {
+    "name": "",
+    "email": ""
+  },
+  "scene": {
+    "parcels": [
+      "10,10",
+      "10,11",
+      "10,12",
+      "10,13"
+    ],
+    "base": "10,10"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://rendezvous.decentraland.org"
+  },
+  "policy": {
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": "0,0,0"
+  },
+  "main": "scene.js"
+}
